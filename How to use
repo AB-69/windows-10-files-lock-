@@ -1,0 +1,16 @@
+Make a new folder and name it whatever you want 
+In that folder , make a new .txt document
+Copy the code into the .txt document
+Make sure you change the (yourpasswordhere) in the code to the password you want to use
+Save
+Edit there name of the .txt document to .bat (for example if the document name was file.txt rename it to file.bat
+Double click the file
+(Now you should see a file that just got created called *private* )
+Move all the stuff you want to hide and secure with a password 
+After you finish , double click the file.bat 
+Type : yes
+*Now the file called (private) is hidden and secured*
+To show the file , double click file.bat
+Enter your password 
+And just like that you will see thet *private* file with all your stuff in it
+PS: if the password is wrong the file wont show up
